@@ -21,7 +21,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/github_username/repo">
-    <img src="https://github.com/dainelkoh/Cinderella/blob/master/wwwroot/images/logo/Logo1.png" alt="Logo" width="80" height="80">
+    <img src="https://raw.githubusercontent.com/Leiruz/Project-Cinderella/master/wwwroot/images/logo/Logo1.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Cinderella Shoes</h3>
@@ -29,10 +29,10 @@
   <p align="center">
     A shoe selling platform that aims to integrate security while increasing user experience for our customer
     <br />
-    <a href="https://github.com/dainelkoh/Cinderella"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Leiruz/Project-Cinderella"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/dainelkoh/Cinderella">View Demo</a>
+    <a href="https://github.com/Leiruz/Project-Cinderella">View Demo</a>
     ·
     <a href="mailto: zuriel.shanley@gmail.com">Report Bug</a>
     ·
@@ -59,7 +59,7 @@
 ## About The Project
 
 
-<img src="https://github.com/dainelkoh/Cinderella/blob/master/wwwroot/images/Website%20Index%20Page.png">
+<img src="https://raw.githubusercontent.com/Leiruz/Project-Cinderella/master/wwwroot/images/Website%20Index%20Page.png">
 
 Established in 2020, Cinderella Shoe™ is a shoe selling platform that aims to deliver quality services with security in mind for our customers. Cinderella Shoe™ is founded and developed by four Ngee Ann Polytechnic students that want to make online procurement of shoes a secure and easy way of doing online business.
 
@@ -91,7 +91,7 @@ You will need to have the following items installed on your local machine
  
 1. Clone the repo
 ```sh
-git clone https://github.com/dainelkoh/Cinderella.git
+git clone https://github.com/Leiruz/Project-Cinderella.git
 ```
 2. Copy Database
 ```sh
